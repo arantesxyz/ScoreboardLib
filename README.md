@@ -1,2 +1,6 @@
-## ScoreboardLiB
+# ScoreboardLiB
 Simple and easy scoreboard library
+
+
+## Credits
+Based on [this spigot thread](https://www.spigotmc.org/threads/no-flicker-scoreboards-how-do-they-work-and-how-do-i-use-them.168793/?__cf_chl_jschl_tk__=6d7f3a90e1ea81bf6c882d6088cb49306516f5a0-1585427206-0-AQTkcJejijcL3z-vscQx8RB6xOON8DA8AJrKGHExKAVEvcQm9MNCDaNYUM8OKEFVzk9_70jYTQPVAcaAbBnCl4stJlu08fFMPsrkw9da_JRZSlZeh4LEatvm8g1v4mXQb-2QtY9uK8-d9AVGKNJbM5JgkRj19x_fFQnyQYzYeLcLYKQ4T9ZTWbw7XDcPaJeXXlwFLqxMUUJBYJqWSkvYpknIF1k-VcfviePwhUekqenun00STdmX2qGj6-xBKjeGWi7Xg03YaaP08Ashg3L0dF5fW5WC2GM3E1icpljeOhdnF9ycZZSDNz8yeHa749_MeUntrp1GdZYg7umjSV-a71RgNZObIyn9O4z-TKHR0BdysVcP6j0FczLI-ARrHyh5Yg).
