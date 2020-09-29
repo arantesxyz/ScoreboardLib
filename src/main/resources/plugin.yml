@@ -1,7 +1,0 @@
-name: ${artifactId}
-version: ${version}
-description: ${description}
-author: ${author}
-website: ${url}
-
-main: ${mainClass}
